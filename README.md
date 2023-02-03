@@ -1,5 +1,6 @@
 # RandomForest_Location
-Machine learning contributes to the fast and reliable source-location prediction in earthquake early warning.
+
+Saad, Omar M., Yunfeng Chen, Daniel Trugman, M. Sami Soliman, Lotfy Samy, Alexandros Savvaidis, Mohamed A. Khamis, Ali G. Hafez, Sergey Fomel, and Yangkang Chen. "Machine learning for fast and reliable source-location estimation in earthquake early warning." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5.
 
 Input and Target data can be downloaded via: 
 https://mega.nz/file/lswxzSgD#4UNVr3uVTY_V3dre5igydnqmTm6UaorP501_CkTmbwQ
